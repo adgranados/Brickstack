@@ -13,6 +13,7 @@ Este monorepo contiene la plataforma base para **construcción dinámica de sist
 - `/back`: Backend en NestJS, responsable de orquestar la generación de componentes, gestionar la lógica de negocio y exponer APIs.
 - `/orchestrator`: Servicio encargado de interpretar instrucciones del usuario, activar agentes inteligentes, generar código y configurar dependencias.
 - `/infra`: Definición de infraestructura como código (Terraform, CDKTF, Docker) para entornos de desarrollo, pruebas y producción.
+- `/tests/n2n`: Breve descripción de las pruebas de extremo a extremo.
 
 ## 🧩 Características clave
 
